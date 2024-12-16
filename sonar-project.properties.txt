@@ -1,0 +1,27 @@
+# Clave del proyecto en SonarQube (asegúrate de que coincida con el nombre configurado en SonarQube)
+sonar.projectKey=test
+
+# Nombre visible del proyecto en el panel de SonarQube
+sonar.projectName=Test Project
+
+# Escanear solo la carpeta actual (.) desde la raíz del proyecto
+sonar.sources=.
+
+# URL del servidor de SonarQube
+sonar.host.url=http://localhost:9000
+
+# Token de autenticación (asegúrate de que sea válido)
+sonar.login=sqp_d904391c5e02eceade0e1176c809ad25059b5aa9
+
+# Ruta a tu instalación de Java (ajusta según tu sistema)
+sonar.java.home=C:\Program Files\OpenLogic\jdk-17.0.11.9-hotspot
+
+# Versión de Python utilizada en el proyecto
+sonar.python.version=3.11.9
+
+# Configuración del control de versiones (Git está habilitado)
+sonar.scm.disabled=false
+sonar.scm.provider=git
+
+# Exclusiones opcionales (ajusta según tus necesidades)
+sonar.exclusions=venv/**,**/*.db,**/*.json,**/.git/**
