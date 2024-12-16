@@ -122,6 +122,11 @@ Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, correcciones o nuevas funcionalidades.
 
+TEST SCAN 
+
+![image](https://github.com/user-attachments/assets/e0e7a151-e8ab-4ac7-92ba-9f5dac5fae86)
+
+
 
 
 
